@@ -1,5 +1,4 @@
 
-Charity and Online Donation Project
 Welcome to the "Charity and Online Donation" project repository! This project is aimed at developing a web application that facilitates online donations for various charitable causes. The application is built using HTML, CSS for front-end design, PHP for server-side logic, and SQL for database management.
 
 Project Overview
